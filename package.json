@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Debugger loader for Webpack",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aduth/debugger-loader.git"
+  },
   "author": {
     "name": "Andrew Duthie",
     "email": "andrew@andrewduthie.com",
